@@ -15,4 +15,3 @@ In this Project, we will use pre-downloaded datasets to understand the nuts and 
 7. **Activity around the trend**
 8. **A table that speaks a 1000 words**
 9. **Analyzing used languages**
-10. **Final thoughts**
